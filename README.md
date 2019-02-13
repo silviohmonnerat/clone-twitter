@@ -1,4 +1,3 @@
-![Rocketseat](assets/rocketseat.png)
 
 **Importante: todo o conteúdo do antigo PDF para configuração do ambiente de desenvolvimento foi migrado para este repositório. Dessa forma fica mais fácil manter todas as informações atualizadas e incluir ainda soluções para as dificuldades mais comuns que os devs encontram.**
 
